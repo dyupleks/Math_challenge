@@ -1,0 +1,3 @@
+﻿  math_challenge.cpp
+C:\Users\Albina\source\repos\Assignment 1 - Math challenge\Assignment 1 - Math challenge\math_challenge.cpp(59,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Assignment 1 - Math challenge.vcxproj -> C:\Users\Albina\source\repos\Assignment 1 - Math challenge\x64\Debug\Assignment 1 - Math challenge.exe
