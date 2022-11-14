@@ -1,6 +1,6 @@
 # Math_challenge
 
-The full project is in 'Math Challenge - Assignment' folder
+The full project is in 'Math Challenge - Assignment' folder.
 The main cpp file is in math_challenge.cpp file
 
 Results are represented in the video
